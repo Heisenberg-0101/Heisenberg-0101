@@ -17,6 +17,21 @@
 </picture>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragnar-vallhala&show_icons=true&theme=radical" alt="Ashutosh's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragnar-vallhala&theme=radical" alt="Ashutosh's GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnar-vallhala&layout=compact&theme=radical" alt="Ashutosh's Top Languages">
+</p>
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
