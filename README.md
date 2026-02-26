@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Chaudhary(ak)</h1>
 <h3 align="center">A passionate to learn and explore coding world</h3>
-<p align = "center"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sung-jin-x&label=Profile%20views&color=0e75b6&style=flat" alt="sung-jin-x" /> 
 
 - 🌱 I’m currently learning **basics of coding**
@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **just a coder**
 - ---
+<p align = "center"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
 <h2 align="center">👾Contribution Games</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
