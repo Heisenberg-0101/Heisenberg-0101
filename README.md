@@ -10,6 +10,8 @@
 - ⚡ Fun fact **just a coder**
 - ---
 <p align = "center"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
+
+                      
 <h2 align="center">👾Contribution Games</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
