@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **just a coder**
 - ---
-<p align = "center"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
+<p align = "right"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
 
                       
 <h2 align="center">👾Contribution Games</h2>
