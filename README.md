@@ -36,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sung-jin-x&show_icons=true&locale=en&layout=compa
 
 <p><img align="left" src="https://giphy.com/explore/game-of-thrones
+<img width="500" height="278" alt="image" src="https://github.com/user-attachments/assets/6fa1bd03-d840-4b1b-b16b-e3fe76ae3eea" />
+
