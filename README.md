@@ -12,7 +12,7 @@
 <p align = "right"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
 
                       
-<h2 align="right">👾Contribution Games</h2>
+<h2 align="left">👾Contribution Games</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
