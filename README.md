@@ -34,3 +34,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sung-jin-x&show_icons=true&locale=en&layout=compa
+<p><img align="left" src="https://giphy.com/explore/game-of-thrones
