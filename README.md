@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sung-jin-x&label=Profile%20views&color=0e75b6&style=flat" alt="sung-jin-x" /> 
 
-- 🌱 I’m currently learning **basics of coding**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **ac484709@gmail.com**
 
-- ⚡ Fun fact **just a coder**
+- ⚡ Fun fact **just a explorer**
 - ---
 <p align = "right"><image src = "https://media1.tenor.com/m/FBIkAQiT0d0AAAAC/waltwhite-breakingbad.gif"
 
