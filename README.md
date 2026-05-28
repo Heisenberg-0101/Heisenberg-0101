@@ -20,13 +20,6 @@ src="https://img.shields.io/github/followers/Heisenberg-0101?logo=github&style=f
 src="https://img.shields.io/twitter/follow/Ankit1828898414?logo=twitter&style=for-the-badge&color=0891b2&labelColor=7c2d12"
 /></a>
 ### Badges
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heisenberg-0101&show_icons=true&theme=radical" alt="ankit chaudhary GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heisenberg-0101&theme=radical" alt="ankit chaudhary GitHub Streak">
-</p>
 
 <b>My GitHub Stats</b>
 
