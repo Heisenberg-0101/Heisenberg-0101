@@ -1,29 +1,116 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankit Chaudhary
-========================================================================================================================================
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;ankit_chaudhary;%24+sudo+apt+install+skills;Building+things+in+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+
+</div>
+
+---
+
+```bash
+ankit@heisenberg-0101:~$ neofetch
+```
+
+```text
+        .--.         ankit@heisenberg-0101
+       |o_o |        ---------------------
+       |:_/ |        OS:        Linux 🐧
+      //   \ \       Name:      Ankit Chaudhary
+     (|     | )      Pronouns:  he/him
+    /'\_   _/`\      Location:  India 🌏
+    \___)=(___/      Shell:     bash
+                     Editor:    VS Code
+                     Langs:     C, C++, Python
+                     Web:       HTML5, CSS3, Tailwind
+                     Status:    Learning web development
+```
+
+---
+
+## 👨‍💻 ~/about
+
+```bash
+ankit@heisenberg-0101:~$ cat about.txt
+```
 
 I am a dedicated and detail-oriented coder with a strong passion for problem-solving and software development. I have experience working with programming concepts, writing clean and efficient code, and continuously improving my technical skills. I value logical thinking, consistency, and best practices in coding, and I strive to develop reliable and effective solutions. With a commitment to learning and adapting to new technologies, I aim to contribute to meaningful projects and grow as a professional in the field of software development.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ac484709@gmail.com](mailto:ac484709@gmail.com)
-* 🚀  I'm currently working on [website with weapon details](http://http://127.0.0.1:5500/weapons_database.html)
-* 🧠  I'm currently learning web development
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
-<p align="right">
-  <img src="https://imgs.search.brave.com/DFItB0pGtaoobWpWhefevGjRQoQEMoLAX7-8WhI-760/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vSjN5VGpoLU9n/cnNBQUFBZC9icmVh/a2luZy1iYWQtc2F5/LW15LW5hbWUuZ2lm.gif" alt="Coding GIF">
-</p>
+## 📂 ~/status
 
-### Socials
+```bash
+ankit@heisenberg-0101:~$ ls -la status/
+```
 
-<p align="left"> <a href="https://www.github.com/Heisenberg-0101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Ankit1828898414" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ankit-chaudhary-1883073a4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@The_Coding_Desk8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/Heisenberg-0101" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Heisenberg-0101?logo=github&style=for-the-badge&color=0891b2&labelColor=7c2d12" /></a><a href="https://www.x.com/Ankit1828898414" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Ankit1828898414?logo=twitter&style=for-the-badge&color=0891b2&labelColor=7c2d12"
-/></a>
-### Badges
+- 🌏 **Location** → Based in India
+- 📫 **Contact** → [ac484709@gmail.com](mailto:ac484709@gmail.com)
+- 🚀 **Working on** → Website with weapon details
+- 🧠 **Learning** → Web development
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Heisenberg-0101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Heisenberg-0101&stroke=84cc16&background=7c2d12&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+## 🛠️ ~/skills
+
+```bash
+ankit@heisenberg-0101:~$ sudo apt install --skills
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,git,python,vscode,html,css,tailwind,bash,linux,gcp,ps,ae,pr&perline=7" alt="Skills" />
+
+</div>
+
+---
+
+## 📊 ~/stats
+
+```bash
+ankit@heisenberg-0101:~$ github-stats --user Heisenberg-0101
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Heisenberg-0101&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberg-0101&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Heisenberg-0101&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 ~/socials
+
+```bash
+ankit@heisenberg-0101:~$ ping socials
+```
+
+<div align="center">
+
+<a href="https://github.com/Heisenberg-0101"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" /></a>
+<a href="https://x.com/YOUR_X_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41" alt="YouTube" /></a>
+<a href="mailto:ac484709@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Heisenberg-0101?label=Followers&style=for-the-badge&logo=github&color=000000&labelColor=0D1117&logoColor=00FF41" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Heisenberg-0101&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+ankit@heisenberg-0101:~$ echo "Keep coding. Keep learning." && exit
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
